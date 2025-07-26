@@ -1,7 +1,15 @@
 {
   "data":[
     {
-      "title": "lotosbin 的 opml",
+"url": "https://raw.githubusercontent.com/RickyWong33/Machine_Learning_RSS/master/OPML.xml",
+"title": "机器学习小火车"
+},
+{
+"url": "https://raw.githubusercontent.com/timqian/chinese-independent-blogs/master/feed.opml",
+"title": "中文独立博客列表"
+},
+    {
+      "title": "中文博客推荐列表",
       "url": "https://raw.githubusercontent.com/lotosbin/opml-list/master/generate/all.opml"
     }
   ]
